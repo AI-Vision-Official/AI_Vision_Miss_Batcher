@@ -1,0 +1,12 @@
+    "series_db.json": json.dumps({
+        "Lucinda Riley": {
+            "Schaduw": "Zeven Zussen 03",
+            "Storm": "Zeven Zussen 02",
+            "Zeven Zussen": "Zeven Zussen 01"
+        },
+        "Terry Goodkind": {
+            "Eerste Wet van de Magie": "Wetten van de Magie 01",
+            "Steen der Tranen": "Wetten van de Magie 02"
+        }
+    }, indent=4, ensure_ascii=False),
+
